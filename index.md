@@ -42,4 +42,14 @@ currently pursuing Btech from College of Engineering Trivandrum (CET)
   - Aadujeevitham(Benyamin)
 
 
+## COURSES
+  - PHT100
+  - MAT101
+  - EST100
+  - EST120
+  - EST102
+  - MAT102
+  - EST110
+  - EST130
+  
 
