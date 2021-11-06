@@ -22,12 +22,12 @@ currently pursuing Btech from College of Engineering Trivandrum (CET)
 
 
 ## PROJECTS
-  - TodoList  
+  - [TodoList](https://frozen-tundra-61115.herokuapp.com/)
   - secret
   - blog
-  - treasure hunt
+  - [treasure hunt](https://protected-fortress-79381.herokuapp.com/)
   - keeper app
-  - netflix clone
+  - [netflix clone](https://60h09.github.io/netflix-clone/)
 
 
 
