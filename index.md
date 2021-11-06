@@ -9,14 +9,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Syntax highlighted code block
 
-**# Header 1**
-## Web-Development
-### Node JS
-### React
-### MongoDB
-### javaScript
-### Competitive Coding
-### Python
+
+## SKILLS
+  ### Node JS
+  ### React
+  ### MongoDB
+  ### javaScript
+  ### Competitive Coding
+  ### Python
 
 
 
