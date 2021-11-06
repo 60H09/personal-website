@@ -5,12 +5,21 @@ currently pursuing Btech from College of Engineering Trivandrum (CET)
 
 
 ## SKILLS
-  ### Node JS
-  ### React
-  ### MongoDB
-  ### javaScript
-  ### Competitive Coding
-  ### Python
+  - Node JS
+  - React
+  - MongoDB
+  - javaScript
+  - Competitive Coding
+  - Python
+
+
+## PROJECTS
+  - TodoList  
+  - secret
+  - blog
+  - treasure hunt
+  - keeper app
+  - netflix clone
 
 
 
