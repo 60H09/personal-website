@@ -19,6 +19,9 @@ currently pursuing Btech from College of Engineering Trivandrum (CET)
   - javaScript
   - Competitive Coding
   - Python
+  - c++
+  - c
+  - calculus
 
 
 ## PROJECTS
@@ -30,7 +33,13 @@ currently pursuing Btech from College of Engineering Trivandrum (CET)
   - [netflix clone](https://60h09.github.io/netflix-clone/)
   - [my personal site](https://60h09.github.io/personal-website/)
 
-
+## BOOKS READ
+  - Rich Dad Poor Dad (R.Kiyosaki)
+  - Sita (Amish Tripathi)
+  - Raavan (Amish Tripathi)
+  - Randamoozham (MT Vasudevan Nair)
+  - Francis Ittycora(TD Ramakrishnan)
+  - Aadujeevitham(Benyamin)
 
 
 
