@@ -1,13 +1,7 @@
 ## Rohan Roy's Personal Website
 
-
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-Syntax highlighted code block
+Rohan Roy is a student
+currently pursuing Btech from College of Engineering Trivandrum (CET)
 
 
 ## SKILLS
