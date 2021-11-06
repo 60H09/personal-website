@@ -28,6 +28,7 @@ currently pursuing Btech from College of Engineering Trivandrum (CET)
   - [treasure hunt](https://protected-fortress-79381.herokuapp.com/)
   - keeper app
   - [netflix clone](https://60h09.github.io/netflix-clone/)
+  - [my personal site](https://60h09.github.io/personal-website/)
 
 
 
